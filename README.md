@@ -1,4 +1,4 @@
-*TODOLIST*
+# TODOLIST
 
 ToDoList for a clear disposal of your time for the tasks you need
 
